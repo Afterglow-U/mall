@@ -1,13 +1,11 @@
 <template>
-  <div>
-
-  </div>
+  <div>我的</div>
 </template>
 
 <script>
 export default {
-  name:'TabBarItem',
-}
+  name: "Proflie",
+};
 </script>
 
 <style scoped>
