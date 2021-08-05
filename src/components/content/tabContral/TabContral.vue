@@ -23,11 +23,11 @@ export default {
 </script>
 
 <style scoped>
-.van-tabs {
+/* .van-tabs {
   position: sticky;
   top: 43px;
   left: 0;
   right: 0;
   z-index: 9;
-}
+} */
 </style>
